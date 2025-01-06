@@ -1,5 +1,14 @@
 # Spring 2024
 
+### class prep
+- bno is a shell
+- lc strudel isn't great, could use some buffing up week to week
+- lc is messed up in tidal cycles but not badly
+- sc needs a code analysis week
+- sc mapping needs rethinking if accessible...
+- 491 a shell after juries
+- TOTALLY REWRITE 261 for accessibility
+
 ## Week of Jan.21
 - 261a: Hello, World
 
