@@ -1,13 +1,10 @@
 # Spring 2025
 
 ### class prep
-- 261 no screen reader after midterm...
 - bno is a shell
-- lc strudel isn't great, could use some buffing up week to week
 - lc is messed up in tidal cycles but not badly
 - sc needs a code analysis week
 - sc mapping needs rethinking if accessible...
-- 491 a shell after juries
 
 ## Week of Jan.21
 - 261a: Hello, World
@@ -29,17 +26,17 @@
 - 261b: git
 
 ## Week of Feb.10
-- bno: 
+- bno: haraway
 - 343: strudel
 - 261a: operators&bindings
-- 491: cv
+- 491: ...
 - 347: effects
 - 261b: SQL
 
 ## Week of Feb.18
-- bno: 
+- bno: glitch
 - 343: strudel
-- 491: pre-jury check-in
+- 491: cv
 - 347: patterns
 - 261b: operators&bindings
 
@@ -47,9 +44,9 @@
 - bno: 
 - 343: hydra
 - 261a: control flow !
-- 491: critique two
+- 491: ..
 - 347: playback
--261b: control flow!
+- 261b: control flow!
 
 ## Week of March 3
 - bno: 
@@ -72,7 +69,7 @@
 - bno: 
 - 343: tc
 - 261: midterm
-- 491: NO CLASS
+- 491: NO CLASS bc it is actually jury week
 - 347: analysishowto <<<<<<<<<<<<<<<<<<<
 
 ## Week of March 31
