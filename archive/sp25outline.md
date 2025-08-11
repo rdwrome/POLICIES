@@ -60,14 +60,13 @@
 - bno: 
 - 343: strudel+hydra
 - 261a: functions
-- DO 491 one-on-ones AD HOC 
 - NO CLASS THURSDAY BC SC
 
 ////
 
 ## Week of March 24
-- bno: 
-- 343: tc
+- bno: Project...
+- 343: install
 - 261: midterm
 - 491: NO CLASS bc it is actually jury week
 - 347: analysishowto <<<<<<<<<<<<<<<<<<<
@@ -75,36 +74,36 @@
 ## Week of March 31
 - bno: 
 - 343: tc
-- 261: HTML
+- 261: HTML / DIANA
 - 491: critique three
 - 347: modelling (analysis proposal due)
 
 ## Week of April 7
 - bno:
 - 343: tc
-- 261: network
+- 261: network / html
 - 491: coverletter
 - 347: analysisdue
 
 ## Week of April 14
 - bno: 
 - 343:  tc
-- 261: lists&libraries
+- 261: lists&libraries / network
 - 491: critique four
 - 347: (analysiscleanup)/modelling/mapping/sharingiscaring (sharing is caring proposal due)
 
 ## Week of April 22
 - bno: 
 - 343: CHAR GUEST!!!
-- 261: meetings or webservers?
-- 491: MOCK SHOWCASE (95% done)/Doughnut Party?
+- 261: meetings! / lists and libraries
+- 491: MOCK SHOWCASE (95% done)
 - 347: mapping/sharingischaring
 
 ## Week of April 28
 - bno: REHEARSAL
 - 343: TIDAL DUE BEFORE CONCERT
 - 261: AI
-- 491: 491 one-on-ones AD HOC 
+- 491: doughnut party
 - 347: SC DUE BEFORE CONCERT
 
 ~ concert sunday may 4 ~

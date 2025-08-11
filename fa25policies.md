@@ -6,7 +6,7 @@
 
 ## Assignments
 ### Steps to submit assignments via GitHub+Canvas
-  1. Make a subfolder in *your* GitHub repository (not the class respository!) named after the assignment (i.e. {yourusername}/{course}/{assignment}, etc.)
+  1. Make a subfolder in *your* GitHub repository (not the repository *I* have for the whole class!) named after the assignment (i.e. {yourusername}/{course}/{assignment}, etc.)
   2. Commit all parts of your assignment (i.e. code+documentation file) into that subfolder
   3. Submit the link **to that folder** in the appropriate Canvas assignment by the deadline
 
@@ -24,7 +24,7 @@
     - Correctly document all your debugging, especially if you code ultimately does not run as intended. I will take points off for code that does not run correctly, but will still give partial credit if it is well-documented.
     - For the purposes of this class, your documentation file also helps you prepare to talk about your code in class with your colleagues.
     - In general (unless I specify otherwise), it is permissible to use chat-GPT or other large-language models under the following circumstances:
-      - You document the ENTIRE INTERACTION with screenshots and include images of those screen shots with your documentation.
+      - You document the ENTIRE INTERACTION with screenshots and include images of those screenshots with your documentation.
       - You write out *in your own words* your **SPECIFIC** understanding of what you learned from using chat-GPT in your documentation file.
 
 ## Instructor Info
@@ -33,9 +33,9 @@
 - Email: [rrome@berklee.edu](rrome@berklee.edu)
 - Phone: 336.355.1993
 - Office Hours:
-	- Tuesdays 11am-1pm EST.
-	- Meetings will *always* take place in person at 1126 Boylston Room 208 (never zoom).
-	- Walk-ins welcome, but preference is given to those who make [appointments here.](https://calendar.app.google/ER3N9CgnNFRqi8qE6)
+	- Tuesdays 12pm-1pm EST; Thursdays 11am-12pm EST.
+	- Meetings will *always* take place in person at 1126 Boylston Room 208 (never on Zoom).
+	- Walk-ins welcome, but preference is given to those who make [appointments here.](https://calendar.app.google/uHYL8MRLPpP5ABpH9)
 	- If you are not available during my office hour, you are welcome to use Berklee Google Calendar (be signed into your own account and search for "r.d.w.rome") to look at my whole calendar and make an appointment that way. It is up-to-date; no need to email me. Just drop the appointment in my calendar.
 
 ## Policies
@@ -56,7 +56,7 @@
 - In an emergency, please call me (really).
 
 ### Grading
-- Two assignment extensions may be granted more than 12 hours in advance, but will not necessarily be granted for large projects.
+- Two assignment extensions may be granted if requested more than 12 hours in advance, but will not necessarily be granted for large projects.
 - Assignment extensions are not implicit with absences: if you are missing class the date something is due, you must explicitly ask for an assignment extension more than 12 hours in advance.
 - You will be held to the Berklee Policy on Honesty in Academic Work (see Student Handbook).
 - Late assignments (without granted extensions) are not accepted.
